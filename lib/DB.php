@@ -35,7 +35,7 @@ class DB {
     }
 
     public function Delete(){
-
+        //this is delete function
     }
 
     public function Create(){
